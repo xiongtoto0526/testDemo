@@ -1,2 +1,2 @@
 # testDemo
-java 3
+java 4
